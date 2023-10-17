@@ -1,0 +1,55 @@
+1:- What is Python?
+2:- History of Python?
+3:- Features of Python
+4:- Application of python.
+5:- Companies using python.
+
+
+1:- What is python?:-~~~~~~~~~~~~~>
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.
+
+Python syntax are easy compared to other languages.
+
+2:- History of Python:-~~~~~~~~~~>
+
+* Python was introduced by Guido Van Rossum in 1989.
+* First version of python released in 1991.
+* In 1994, Python 1.0 was released with new feature which map, filter, lambda.
+* Python2.X also add some more feature like comprehensions, garbage collection system.
+* After Python2.X Python3.X released in 2008.
+
+3:- Features of Python:-~~~~~~~~~~~~>
+
+* Easy to learn and implement.
+* Open Source.
+* Broad Standard Library.
+* Cross Platform.
+* Work on interpreter logic.
+* Multi-Paradigm Language.
+* High-Level Programming.
+* Extendable language.
+* Expressive programming language.
+* GUI programming support.
+
+4:- Application of python~~~~~~~~~~~~~~~~~~>
+
+* Website and application development.
+* Desktop application.
+* Games development.
+* Web Scraping 
+* Data Visualization
+* Scientific Calculation.
+* Machine learning and artificial intelligence
+* 3D application development.
+* Audio & videos software development.
+
+5:- Companies using python:-~~~~~~~~~~>
+
+Netflix-> use for buffering videos
+Facebook-> use for large data of amount deal
+Google:-> 
+YouTube-> make better Recomand 
+NASA:-> Scientific calculation
+torant-> make better pair to pair connection 
+Instagram-> make better Image and video proccessing

@@ -1,0 +1,59 @@
+ # Dictionary:~~~~~~~~~~~~~~~>
+ 
+ 1. Unordered Data type
+ 2. Key:Value
+ 3. {}
+ 
+ 
+ A dictionary is a collection which is unordered. In Python dictionaries are written with curly brackets{}.
+ A dictionary has a key:value pair.
+ 
+ # Dictionary Function:~~~~~~~~~~~~~~~~~>
+ 
+ 1. get()
+ 2. keys()
+ 3. items()
+ 4. values()
+ 5. update()
+ 6. del()
+ 7. clear()
+ 8. pop()
+ 9. dict()
+ 
+ # Nested Dictionary:--------------->
+ 
+ -> Nested dictionary :- Nesting dictionary means putting a dictionary inside another dictionary.
+ -> It's a collection of dictionaries into one single dictionary.
+ 
+ course{
+     'A':{key:value}
+     }
+ 
+ # ~~~~~~~~~~~~~~~~~~~~~Tuple:~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+ 
+ A tuple is a collection which is ordered and immutable iterating through tuple is faster than with list.
+ 
+ 
+ 1. ordered data type
+ 2. ()
+ 3. immutable
+ 
+ tupl = (34,56,78,97)
+ 
+ Accessing elements in a tuple:-------->
+ 
+ n = t[0]
+ print(n) => 34
+ 
+# Tuple Function:------------->
+ 
+1. min()
+2. max()
+3. count
+4. index()
+5. sum()
+
+
+ 
+ 
+ 

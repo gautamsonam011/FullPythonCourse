@@ -1,0 +1,81 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Math Module~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MATH.CEIL(X):--------------->
+
+Return the ceilling of x, the smallest integer greater than or equal to x.
+If x is not a float, delegates to x._ceil_(),which should return an Integral value.
+
+x = 10.5
+print(math.ceil(x))   #output => 11
+
+MATH.FABS(X):~~~~~~~~~~~~~~~~~>
+
+Return the abolute value of x.
+
+x = -10
+
+print(math.fabs(x))    #output => 10
+
+MATH.FACTORIAL(X):-------------->
+
+Return x facotrial as an integer. Raises value error if x is not integer or is negative.
+x=5
+print(math.facotrial(x))  #output => 120
+
+MATH.FLOOR(X):~~~~~~~~~~~~~~~~~>
+
+Return the floor of x, the largest integer less than or equal to x. If x is not a float, delegatesto 
+x._floor_(), which should return an Integral value.
+
+x = 10.4
+print(math.floor(x))  #output => 10
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~Python Random Module~~~~~~~~~~~~~~~~~~~~~~
+
+Python Random randint() Method:------------->
+
+Return a number between 5 and 10 (both included):
+Import random
+print(random.randint(5,10))
+
+# returns a number between 3 (included) and 9(not included)
+print(random.randrange(3,9))
+
+Python Random choice() Method:----------->
+
+Return a random element from a list:
+
+l = ['apple','banana']
+print(random.choice(l))
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~`Python Dates~~~~~~~~~~~~~~~~
+
+Import a Module named datatime to work with dates as date objects.
+
+import datatime
+x = datatime.datatime.now()
+print(x)
+
+The date contains year, month, day, hour, minute, second, and microsecond.
+
+Creating Date objects
+
+x = datetime.datatime(2021,1,18)
+print(x)
+
+
+---------------->
+The method is called strftime(), and takes one parameter, 
+format, to specify the format of the returned string:-
+
+%b         Month name, short version as Dec
+%B         Month name, full version  as December
+%m         Month as a number 01-12  12
+%y         Year, short version, without century  18
+%Y         Year full version                    2018
+%H         Hour 00-12                           17
+%I         Hour 00-12                           05
+%p         AM/PM                                PM
+%M         minute 00-59                         41

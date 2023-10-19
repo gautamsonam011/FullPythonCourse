@@ -1,0 +1,36 @@
+What is Pickle in python:----------->
+
+The Pickle module implements a fundamental, but powerful algorithm for serializing and de-serializing 
+a Python object structure.
+
+Storing Data with pickle:------------>
+
+You can pickle objects with the following data types:-
+
+1:- Booleans
+2:- Integer
+3:- Float
+4:- Complex numbers
+5:- (normal and Unicode)Strings,
+6:- Tuples,
+7:- Lists,
+8:- Sets and
+9:- Dictionaries
+
+Pickle files:--------------->
+
+To use pickle, start by importing it in python.
+
+import pickle
+
+pickle has two main methods. The first one is dump, which dump, which dumps an object to a file object and
+the second one is load, which loads an object from a file object.
+
+Python pickle functions:-
+
+dump() -> This function is called to serialize an object hierarchy.
+load() -> This function is called to de-serialize a data stream
+
+wb => Data Write
+rb => Data Read
+

@@ -1,0 +1,33 @@
+Python JSON:~~~~~~~~~~~~~~~~~>
+
+-> JSON (Javascript Object Notation)
+-> It is mainly used for storing and transferring data between the browser and the server.
+-> JSON is text, written with Javascript object Notation.
+-> Python too supports JSON with a built-in package called json.
+
+
+import json
+
+Python JSON:------------>
+
+JSON supports mainly 6 data types:-
+
+1. storing
+2. number
+3. boolean
+4. null
+5. onject
+6. array
+
+p = '{'name':'WS'}'
+
+blog = {'name':'shi','age':34}
+
+to_json = json.dumps(blog)
+
+Coverting JSON to Python Objects:-
+
+If you have a json string, you can parse it by using.loads() method.
+
+Writing & Reading JSON File:--------------------->
+
